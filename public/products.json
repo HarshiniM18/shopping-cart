@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Black denim Jacket for Men",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 18,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/new_winter_wear_5_10_2022/black_denim_jacket_for_men_base_02_12_2023_700x933.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bottle green plain T-shirt",
+      "rating": 2,
+      "normalCost": 20,
+      "actualCost": 16,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/plain_new_update_images_2_5_2022/bottle_green_plain_t-shirt_base_13_05_2023_700x933.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Brown Mock Neck Full Sleeves T-shirt for men",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image":"https://www.beyoung.in/api/cache/catalog/products/new_full_sleeves_14_10_2022/brown_mock_neck_full_sleeves_t_shirt_base_02_02_2024_700x933.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Explore the Unseen half sleeve t-shirt for Men",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/printed_t-shirts_for_men_15_8_2022/explore_the_unseen_half_sleeve_t-shirt_for_men_base_01_08_2023_700x933.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Printed straight kurta with beige pant",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/bawri_kurti/printed_straight_kurta_base_3_3_2022_700x933.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Block Printed Anarkali Kurti With Brown Pant",
+      "rating": 4,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/bawri_kurti/block_printed_long_flare_kurti_base_3_3_2022_700x933.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Women Salwar Suit",
+      "rating": 4,
+      "normalCost": 15,
+      "actualCost": 13,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/81UCB7dynXL._SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rangita Rayon Anarkali Festive Kurta Set for Women",
+      "rating": 3,
+      "normalCost": 19,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/61fN9Ad6epL._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "AKHILAM Women's Zari Woven Design Kanjeevaram Saree With Unstitched Blouse Piece",
+      "rating": 5,
+      "normalCost": 11,
+      "actualCost": 9,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/81+0phyoN7L._SL1500_.jpg"
+    },
+      {
+      "id": 10,
+      "name": "Avantika Fashion Women's Kanjivaram Pure Lichi Silk Banarasi Sarees With Blouse Piece",
+      "rating": 4,
+      "normalCost": 16,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/61BAmNLhClL._SL1100_.jpg"
+      },
+      {
+      "id": 11,
+      "name": "ROYAL EXPORT Women's Tunic Shirt",
+      "rating": 2,
+      "normalCost": 11,
+      "actualCost": 9,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/41Q1MHdq+RL.jpg"
+      },
+      {
+      "id": 12,
+      "name": "BIBA Women Salwar Kurta Dupatta",
+      "rating": 4,
+      "normalCost": 18,
+      "actualCost": 15,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/614PWcCElEL._SL1000_.jpg"
+      },
+      {
+      "id": 13,
+      "name": "EYEBOGLER Polo Neck Half Sleeve Striped Print Casual Men Tshirt",
+      "rating": 4,
+      "normalCost": 170,
+      "actualCost": 140,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/51byp5tQ86L._SL1000_.jpg"
+      },
+    {
+      "id": 14,
+      "name": "London Hills Solid Men's Round Neck Cotton Blend Half Sleeve T-Shirts",
+      "rating": 3,
+      "normalCost": 25,
+      "actualCost": 17,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/71tJWaahoDL._SL1500_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bewakoof Men's Graphic Printed 100% Cotton T-Shirt - Oversized Fit, Round Neck, Half Sleeves",
+      "rating": 4,
+      "normalCost": 20,
+      "actualCost": 12,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/51vv9KDvJFL._SL1350_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "The Souled Store|Official Harry Potter: Nice Navy Mens and Boys T-Shirts|Half Sleeve",
+      "rating": 5,
+      "normalCost": 40,
+      "actualCost": 23,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/61U+VtguNQL._SL1440_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "The Souled Store Spider-Man: Spider Sense Oversized Polos",
+      "rating": 4.8,
+      "normalCost": 25,
+      "actualCost": 12,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/51+fIVCi0PL._SL1440_.jpg"
+    },
+    {
+      "id": 18,
+      "name": "WHITEHEAVEN Mens Highneck Full Sleeves Sweater for Winter",
+      "rating": 4,
+      "normalCost": 27,
+      "actualCost": 16,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/71boURSvK0L._SL1500_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Zilcon Mens Basic Turtleneck Long Sleeve Solid Casual Knitted T-Shirt Pullover Tops",
+      "rating": 5,
+      "normalCost": 29,
+      "actualCost": 16,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/7178hk8s-OL._SL1500_.jpg"
+    },
+    {
+      "id": 20,
+      "name": "INDO ERA Women's Straight Kurta with Pant & Dupatta Set",
+      "rating": 4.5,
+      "normalCost": 20,
+      "actualCost": 17,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/71UD-87i9ML._SL1500_.jpg"
+    },
+    {
+      "id": 21,
+      "name": "INDO ERA Women's Embroidered Kurta & Pant with Dupatta Set",
+      "rating": 4,
+      "normalCost": 25,
+      "actualCost": 20,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image":"https://m.media-amazon.com/images/I/81VxBzrNTKL._SL1500_.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Harpa Women Casual Dress",
+      "rating": 4,
+      "normalCost": 30,
+      "actualCost": 21,
+      "category": "fashion",
+      "subCategory": "womens",
+      "image": "https://m.media-amazon.com/images/I/51scWdKZVgL._SL1500_.jpg"
+    },
+    {
+      "id": 23,
+      "name": "TRIKSH Men's Modern Thumbhole Cardigan ",
+      "rating": 4.3,
+      "normalCost": 18,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/613BGdR0-NL._SL1500_.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Men's Silk Blend Kurta Churidar Pyjama with Ethnic Bundi Jacket Set",
+      "rating": 4,
+      "normalCost": 17,
+      "actualCost": 11,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/61Q9i7N-QjL._SL1500_.jpg"
+    },
+    {
+      "id": 25,
+      "name": "GauriLaxmi Enterprise Men Kurta Pyjama Set 501",
+      "rating": 3,
+      "normalCost": 20,
+      "actualCost": 15,
+      "category": "fashion",
+      "subCategory": "men",
+      "image": "https://m.media-amazon.com/images/I/51TZOZL+IuL._SL1500_.jpg"
+    }
+  ]
+}
